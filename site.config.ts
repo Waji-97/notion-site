@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: '263d8edb-6177-4cd2-8c53-728857f65087',
 
   // basic site info (required)
-  name: 'Notion Blog'
+  name: 'Notion Blog',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Wajhat Syed',
 
